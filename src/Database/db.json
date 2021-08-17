@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+            "name": "virat kohli",
+            "email": "virat@gmail.com",
+            "comment": "nice website for react",
+            "id":1
+        }
+    ]
+}
